@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ethansam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-five-taupe.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:es5888@nyu.edu)
-## 🔒 Security Engineer | 💻 Software Developer | 🤖 AI Enthusiast
+## AI Solutions Developer | 💻 Software Developer | 🤖 AI Enthusiast
 Security Engineer/Software Developer with expertise in optimizing security operations and implementing AI-driven solutions to mitigate risks and enhance system resilience. Skilled in leading vulnerability assessments, improving threat detection, and streamlining incident response processes.
 ### 🎓 Education
 - **Master's, Cybersecurity** - New York University (2022-2025)
