@@ -1,99 +1,52 @@
-# Ethan Sam
-
+# 👨‍💻 Ethan Sam
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ethansam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-five-taupe.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:es5888@nyu.edu)
+## AI Solutions Developer | 💻 Software Developer | 🤖 AI Enthusiast
+Security Engineer/Software Developer with expertise in optimizing security operations and implementing AI-driven solutions to mitigate risks and enhance system resilience. Skilled in leading vulnerability assessments, improving threat detection, and streamlining incident response processes.
+### 🎓 Education
+- **Master's, Cybersecurity** - New York University (2022-2025)
+- **Bachelor's, Computer Science** - CUNY Hunter College (2017-2021)
+- **Certification, Adverserial Machine Learning** - NVIDIA Deep Learning Institute
+### 🛠️ Technical Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### 🚀 Featured Projects
+#### 📊 Campaign Insights Slack Alert System
+Developed an enhanced Slack UI for monitoring marketing campaign anomalies with real-time alerts and AI-powered insights. Features include interactive charts, AI-generated explanations, collaborative team feedback, and multi-metric tracking.
+[View Project](https://slackbot-puce.vercel.app)
 
-## AI Engineer @ AdTech | MS Cybersecurity @ NYU | Building tools that help people leverage AI
+**Tech Stack:** React, Recharts, Lucide React, Tailwind CSS
 
-I build AI-powered tools that solve real problems. My approach: **research deeply, identify gaps, build solutions before anyone asks.**
+#### 🏠 Roomies
+Co-founder & Lead Developer of a comprehensive Next.js web application for roommate management with features including expense tracking, task management, and real-time chat.
 
-This strategy landed me interviews at Amazon, Microsoft, SpaceX, FanDuel, and my current AI Engineer role—where I showed up with a [working prototype](https://slackbot-puce.vercel.app) before we ever spoke.
+#### 🔍 Phishing Detection System
+Architected and implemented an advanced CNN-based phishing and fraud detection system using TensorFlow/PyTorch, demonstrating practical applications of deep learning in cybersecurity.
 
-**My north star:** Positively impact one million lives by helping people discover AI as a force multiplier.
-
+#### 🛰️ SpaceX Starlink Visualizer (Under Construction)
+Stay tuned for an exciting visualization tool for SpaceX's Starlink satellite constellation.
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esamnyu&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esamnyu&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=esamnyu&theme=dark)
+### 🌱 Currently Learning
+- Advanced AI/ML stacks for cybersecurity applications
+- Cloud security architecture
+- Next.js and modern web development frameworks
+### 👯 Looking to Collaborate On
+- Open-source security tools
+- AI-driven threat detection systems
+- Innovative web applications
+### 📫 How to Reach Me
+- 📧 Email: es5888@nyu.edu
+- 🔗 LinkedIn: [linkedin.com/in/ethansam](https://linkedin.com/in/ethansam)
+- 🌐 Portfolio: [personal-portfolio-five-taupe.vercel.app](https://personal-portfolio-five-taupe.vercel.app)
 ---
-
-### What I'm Building
-
-#### [Campaign Insights Bot](https://slackbot-puce.vercel.app) — The project that landed my job
-Built an AI-powered Slack alert system for AdTech campaign monitoring *before* interviewing. Features real-time anomaly detection (Z-score), GPT-generated insights, and closed-loop feedback.
-
-> "I researched the company's gaps, predicted what they needed, and built it. I showed up with a working solution, not just answers."
-
-**Stack:** React, Recharts, OpenAI GPT, Tailwind CSS
-
-#### [Interview Project Generator](https://personal-portfolio-five-taupe.vercel.app) — Try my approach
-Paste any job posting → Get AI-generated project ideas that will help you stand out. The same strategy I used, productized for you.
-
-**Stack:** Next.js, Google Gemini API, Tailwind CSS
-
-#### Phishing Detection System — Best Challenge Award @ CSAW
-CNN-based phishing detection with GPT-3 chatbot for CSAW cybersecurity competition. 300+ participants, recognized for innovation.
-
-**Stack:** TensorFlow, PyTorch, Docker, GPT-3
-
-#### Roomies — Co-founder
-Mobile app for roommate coordination with AI-powered task management and consensus-driven decision making.
-
-**Stack:** React Native, Firebase, AI/ML
-
----
-
-### Experience
-
-| Role | Company | Focus |
-|------|---------|-------|
-| **AI Engineer** | AdTech Startup | Real-time campaign analytics, LLM integration |
-| **AI & Security Intern** | NYU Langone Health | AI chatbot for vulnerability management (30% improvement) |
-| **Cybersecurity Auditor** | NYC Cyber Command | ICS security across 50+ city systems, 100+ vulnerabilities remediated |
-
----
-
-### Technical Skills
-
-**AI/ML:** Python, TensorFlow, PyTorch, OpenAI/Claude/Gemini APIs, LangChain, RAG
-
-**Security:** Vulnerability Assessment, ICS/OT Security, NIST Frameworks, Adversarial ML
-
-**Web:** React, Next.js, TypeScript, Node.js, Tailwind CSS
-
-**Infrastructure:** Docker, AWS, Azure, Linux
-
----
-
-### Education & Certifications
-
-- **M.S. Cybersecurity** — New York University (3.96 GPA)
-- **B.S. Computer Science** — CUNY Lehman College (3.90 GPA)
-- **Adversarial Machine Learning** — NVIDIA Deep Learning Institute
-- **Black Hat Briefings Scholar**
-
----
-
-### Currently Exploring
-
-Building at the intersection of **AI + Security**:
-- Agent observability and security monitoring
-- LLM guardrails and prompt injection defense
-- AI-powered threat detection
-
----
-
-### Let's Connect
-
-I'm interested in conversations about AI engineering, security, or how to use AI tools to compound your capabilities.
-
-- Building something interesting? [Let's talk](mailto:es5888@nyu.edu)
-- Want to try my interview strategy? [Use the tool](https://personal-portfolio-five-taupe.vercel.app)
-- Hiring for AI/Security roles? [LinkedIn](https://linkedin.com/in/ethansam)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esamnyu&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <i>"AI's real promise isn't automation—it's amplification."</i>
-</p>
+⚡ *"Security is not a product, but a process."* - Bruce Schneier
